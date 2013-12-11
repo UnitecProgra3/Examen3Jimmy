@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1386727299 source:/home/jramos/Documentos/Examen/main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
+1386729031 source:c:\users\auditor3\documents\examen\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
